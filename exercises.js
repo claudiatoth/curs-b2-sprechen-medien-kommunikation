@@ -277,7 +277,7 @@ function buildEx5() {
             </ol>
         </div>
 
-        <div class="theory-box" style="background:#dbeafe; border-color:#3b82f6;">
+        <div class="theory-box" style="background:#dbeafe; border-color:#D4A574;">
             <h4>💡 Structuri utile (le poți copia)</h4>
             <ul>
                 <li><strong>Meiner Meinung nach</strong> + verb pe poz. 2: „Meiner Meinung nach sind klassische Medien seriöser."</li>
